@@ -47,3 +47,10 @@ main {
 ul {
   padding-left: 60px;
 }
+
+.logo {
+    width: 96px;
+    height: 96px;
+    display: inline-block;
+    background-size: cover;
+}
