@@ -49,8 +49,12 @@ ul {
 }
 
 .logo {
-    width: 96px;
-    height: 96px;
-    display: inline-block;
-    background-size: cover;
+  width: 96px;
+  height: 96px;
+  display: inline-block;
+  background-size: cover;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  border: 2px solid #F8F7F5;
+  box-shadow: 0 0 0 3px #46433A;
 }
