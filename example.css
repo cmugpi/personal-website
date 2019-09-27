@@ -51,3 +51,10 @@ ul {
 hr {
   color: #e9ecef;
 }
+
+.logo {
+  width: 96px;
+  height: 96px;
+  display: inline-block;
+  background-size: cover;
+}
