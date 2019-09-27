@@ -49,7 +49,8 @@ ul {
 }
 
 hr {
-  color: #e9ecef;
+  border: none;
+  border-bottom: 1px solid #e9ecef;
 }
 
 .logo {
